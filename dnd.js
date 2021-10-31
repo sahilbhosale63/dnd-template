@@ -14,8 +14,7 @@ function mousedown(event){
 }
 
 function mousemove(event){
-
-    console.log(event.clientX, event.clientY)
+    
     event.target.style.top = event.clientX;
     event.target.style.left = event.clientY;
     
