@@ -16,5 +16,7 @@
     width: 80px;
     height: 50px;
     border: 1px solid #fff;
-    position: absolute;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
 }
